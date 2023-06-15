@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @kumanboy<br>
+- 👋 Hi, I’m Husan Davronov<br>
 🔭 I’m currently working on Endava<br>👯 I’m collaborating with Max Dadajonov<br>🤝 I’m looking for help with Swift<br>🌱 I’m currently learning AWS<br>💬 Ask me about PHP, Vue.js, React Native<br>⚡ You can reach out to me via husandavronov13@gmail.com
 
 
